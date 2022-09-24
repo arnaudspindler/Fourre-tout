@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arnohoho
+- 👋 Hi, I’m @Arnaud
 - 👀 I’m interested in learning codes
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on beginner projects
